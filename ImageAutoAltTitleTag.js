@@ -7,8 +7,7 @@ $img.attr('alt', filename.substring((filename.lastIndexOf('/'))+1, filename.last
 });
 });
 //]]>
-</script>
-<script type='text/javascript'>
+
 //<![CDATA[
 $(document).ready(function() {
 $('img').each(function(){
